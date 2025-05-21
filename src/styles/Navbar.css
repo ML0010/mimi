@@ -47,6 +47,7 @@
     border: none;
     transition-duration: 0.2s;
     font-size: 20px;
+    width: 180px;
 }
 
 .languageButton svg {
