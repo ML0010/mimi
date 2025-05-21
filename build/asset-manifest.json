@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mimi/static/css/main.46180e24.css",
+    "main.js": "/mimi/static/js/main.0265d548.js",
+    "static/js/453.ba4f8906.chunk.js": "/mimi/static/js/453.ba4f8906.chunk.js",
+    "index.html": "/mimi/index.html",
+    "main.46180e24.css.map": "/mimi/static/css/main.46180e24.css.map",
+    "main.0265d548.js.map": "/mimi/static/js/main.0265d548.js.map",
+    "453.ba4f8906.chunk.js.map": "/mimi/static/js/453.ba4f8906.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46180e24.css",
+    "static/js/main.0265d548.js"
+  ]
+}
